@@ -6,4 +6,5 @@ Decentralized PIX: A token (Liquid Network, Polygon etc.) tracking Brazilian Rea
 * Liquid
 
 # Contract info
-See <network>/<version>/README.md
+See \<network\>/\<version\>/README.md
+
