@@ -1,0 +1,1 @@
+curl https://assets.blockstream.info/ --data-raw '{"asset_id":"26413bf8ed4ae496d6dcc00e7a5e718c47089f3b48427d71c1567043c52968ed","contract":{"entity":{"domain":"eulen.app"},"issuer_pubkey":"0261673cd4e4f3ba6f2deb8f84b842f57a9529b27f91b8982919c838654b81c638","name":"Reissuance Token of Decentralized PIX (v. Andresen)","precision":0,"ticker":"RT dePIX","version":0}}'
