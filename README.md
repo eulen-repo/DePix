@@ -6,4 +6,6 @@ Beyond its connection to the Real, **DePix** stands out as an innovative **Trans
 1. **Transient** – its use is temporary, serving as an intermediary between the Real (fiat world) and Bitcoin (digital world), without the intention of being held long-term due to the risk of inflation of its collateral and custody risks.
 2. **Tactful** – discreet, leveraging the confidential transaction infrastructure of the Liquid network or similar networks, enhancing privacy in transactions, particularly in the conversion to assets like Bitcoin.
 
-![DePix fig001](./res/whitepaper/fig001-en_US.png)
+- [Check out our **WHITEPAPER** by clicking here.](./whitepaper/depix_whitepaper-en_US.pdf)
+
+![DePix fig001](./whitepaper/fig001-en_US.png)
