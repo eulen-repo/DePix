@@ -39,7 +39,7 @@
 #+BEGIN_CENTER
 Prof. Dr. Wilhelm Hans-Friedrich von Bergen <bergen@depix.info>
 
-v 2.2, 21 de agosto de 2024
+v 2.3, 21 de agosto de 2024, última atualização: 23/ago/2024.
 #+END_CENTER
 
 \begin{figure}[h!]
@@ -126,7 +126,7 @@ Durante o período de transição, o lastro do DePix em Reais são mantidos em u
 
 *** Cenários Adversos e Questões Jurisdicionais
 
-O Token 3T é projetado para operar de forma eficaz em cenários adversos, incluindo países com instabilidade política e econômica, como Brasil, Argentina, México, Nigéria, China, entre outros. Para garantir a estabilidade e a usabilidade do token, mecanismos robustos e medidas estratégicas foram implementados. Além disso, os Banking Nodes são encorajados a serem incorporados em jurisdições que ofereçam direitos de propriedade sólidos e ambientes regulatórios favoráveis a criptomoedas, como Suíça, Bahamas e Seychelles, mitigando riscos legais e regulatórios.
+O Token 3T é projetado para operar de forma eficaz em cenários adversos, incluindo países com instabilidade política e econômica, como Brasil, Argentina, México, Nigéria, China, entre outros. Para garantir a estabilidade e a usabilidade do token, mecanismos robustos e medidas estratégicas foram implementados. Além disso, os Tokens Issuers Entities são encorajados a serem incorporados em jurisdições que ofereçam direitos de propriedade sólidos e ambientes regulatórios favoráveis a criptomoedas, como Suíça, Bahamas e Seychelles, mitigando riscos legais e regulatórios.
 
 ** Riscos operacionais
 
@@ -158,7 +158,7 @@ A API do /Banking Node/ pode estar conectada com a API do /Emissor de Token/ (TI
 
 O Token 3T emprega um mecanismo de paridade em várias camadas para garantir estabilidade e paridade com a moeda local. Para cada token emitido há um saldo correspondente em uma conta bancária. Isso assegura a paridade direta com a moeda local.
 
-Para proteger contra decisões judiciais arbitrárias por governos totalitários, o emissor do token pode empregar estratégias de /hedge internacional/ em jurisdições forex seguras. Isso proporciona uma camada adicional de segurança e garante a paridade.
+Para proteger contra incertezas legais em jurisdições instáveis, o emissor do token pode empregar estratégias de /hedge internacional/ em jurisdições forex seguras. Isso proporciona uma camada adicional de segurança e garante a paridade.
 
 Para aumentar ainda mais a segurança e prevenir que o emissor aja como um agente mal-intencionado, a paridade evoluirá no futuro para um contrato digital automatizado (/smart contract/) usando tecnologia avançada como o protocolo Niti [10]. O Bitcoin servirá como colateral, garantindo um mecanismo de paridade robusto e descentralizado.
 

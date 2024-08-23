@@ -39,7 +39,7 @@
 #+BEGIN_CENTER
 Prof. Dr. Wilhelm Hans-Friedrich von Bergen <bergen@depix.info>
 
-v 2.2, August 21, 2024
+v 2.3, August 21, 2024, Last update: August 23, 2024.
 #+END_CENTER
 
 \begin{figure}[h!]
@@ -128,7 +128,7 @@ During the transition period, DePix's collateral in Reais is held in a fiat bank
 
 *** Adverse Scenarios and Jurisdictional Issues
 
-The 3T Token is designed to operate effectively in adverse scenarios, including countries with political and economic instability, such as Brazil, Argentina, Mexico, Nigeria, China, among others. To ensure the token's stability and usability, robust mechanisms and strategic measures have been implemented. Additionally, Banking Nodes are encouraged to be incorporated in jurisdictions that offer strong property rights and favorable regulatory environments for cryptocurrencies, such as Switzerland, the Bahamas, and Seychelles, mitigating legal and regulatory risks.
+The 3T Token is designed to operate effectively in adverse scenarios, including countries with political and economic instability, such as Brazil, Argentina, Mexico, Nigeria, China, among others. To ensure the token's stability and usability, robust mechanisms and strategic measures have been implemented. Additionally, Tokens Issuers Entities are encouraged to be incorporated in jurisdictions that offer strong property rights and favorable regulatory environments for cryptocurrencies, such as Switzerland, the Bahamas, and Seychelles, mitigating legal and regulatory risks.
 
 ** Operational risks
 
@@ -160,7 +160,7 @@ The /Banking Node/ API can be connected to the /Token Issuer/ (TIE) API for auto
 
 The 3T Token employs a multi-layered parity mechanism to ensure stability and parity with the local currency. For each token issued, there is a corresponding balance in a bank account. This ensures direct parity with the local currency.
 
-To protect against arbitrary judicial decisions by totalitarian governments, the token issuer can employ international hedge strategies in secure forex jurisdictions. This provides an additional layer of security and ensures parity.
+To protect against legal uncertainty in unstable jurisdictions, the token issuer can employ international hedge strategies in secure forex jurisdictions. This provides an additional layer of security and ensures parity.
 
 To further enhance security and prevent the issuer from acting as a malicious agent, parity will evolve in the future to an automated digital contract (/smart contract/) using advanced technology such as the Niti protocol [10]. Bitcoin will serve as collateral, ensuring a robust and decentralized parity mechanism.
 
