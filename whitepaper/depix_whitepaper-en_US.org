@@ -17,7 +17,7 @@
 #+LaTeX_HEADER: \usepackage{subcaption}
 #+LaTeX_HEADER: \usepackage{setspace}
 #+LaTeX_HEADER: \usepackage[compact]{titlesec}
-#+LaTeX_HEADER: \usepackage[center]{caption}
+#+LaTeX_HEADER: \usepackage{caption}
 #+LaTeX_HEADER: \usepackage{multirow}
 #+LaTeX_HEADER: \usepackage{ifthen}
 #+LaTeX_HEADER: \usepackage{longtable}
