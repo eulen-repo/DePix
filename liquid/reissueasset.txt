@@ -1,0 +1,16 @@
+Add it to your ~/.elements/elements.conf:
+
+assetdir=02f22f8d9c76ab41661a2729e4752e2c5d1a263012141b86ea98af5472df5189:DePix
+assetdir=b38fea73f02592783b2d1c0fa2e40bef40af36cbaa658e1a7c350fbc73ee1772:DePixIssuer
+
+You must have few tokens of DePix in your wallet and at least one unit of DePixIssuer.
+
+Then:
+
+```bash
+$ elements-cli -rpcwallet="dePIX" reissueasset DePix 0.00000001
+{
+  "txid": "89dbaa7805039a59f02e65c3c8a3ed078c977a965406ca9e6071c50fcbc7aa6f",
+  "vin": 1
+}
+```
